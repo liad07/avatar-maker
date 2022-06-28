@@ -1,0 +1,17 @@
+    *{
+        background-color: #5af57e;
+    }
+    #text{
+        border-radius: 30px;
+        text-align: center;
+        background-color: white;
+    }
+    .avatar{
+        background-color: #0B85FF;
+        color: white;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        text-align: -webkit-center;
+        line-height: 100px;
+    }
